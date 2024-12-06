@@ -7,20 +7,20 @@ This repository contains a curated collection of Linux scripts for various purpo
 
 ## Repository Structure
 
-security/
+security/ <br>
 Scripts for auditing, securing, and analyzing systems.
 
-system-administration/
+system-administration/ <br>
 Scripts for managing and maintaining Linux systems.
 
-networking/
+networking/ <br>
 Scripts for managing and troubleshooting networks.
 
-automation/
+automation/ <br>
 Scripts for automating repetitive tasks.
 
-development/
+development/ <br>
 Scripts for developers to set up and manage environments.
 
-miscellaneous/
+miscellaneous/ <br>
 Miscellaneous scripts for fun or unique use cases.
