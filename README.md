@@ -24,3 +24,7 @@ Scripts for developers to set up and manage environments.
 
 miscellaneous/ <br>
 Miscellaneous scripts for fun or unique use cases.
+
+## License
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the scripts, provided that you include the original license and copyright notice.
+
