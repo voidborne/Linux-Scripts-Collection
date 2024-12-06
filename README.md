@@ -1,12 +1,12 @@
 # Linux-Scripts-Collection
 A versatile collection of Linux scripts for security, system management, networking, automation, and development tasks.
-/
-Overview
-/
+
+## Overview
+
 This repository contains a curated collection of Linux scripts for various purposes, including cybersecurity, system administration, networking, and more. The goal is to provide a broad base of knowledge and practical tools that can be used in daily tasks, troubleshooting, and automation.
-/
-Repository Structure
-/
+
+## Repository Structure
+
 security/
 Scripts for auditing, securing, and analyzing systems.
 
